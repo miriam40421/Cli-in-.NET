@@ -1,0 +1,29 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+## Build results
+bin/
+obj/
+[Ll]og/
+[Ll]ogs/
+*.log
+
+## Secrets
+appsettings*.json
+secrets.json
+
+## Others
+*.pdb
+*.sln.docstates
+*.orig
+
+## System
+Thumbs.db
+.DS_Store
+
+## VS Code
+.vscode/
