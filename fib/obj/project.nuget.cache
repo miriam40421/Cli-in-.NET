@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tL2/Fu0EFGvNDaSPwoFaHwjwmC0QNX4p96sU3jAjyLyA8adPA6yi1OOREkGmrFWMCaIY3WVM8tRirQcZr7eNGQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\fib\\fib\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miri\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
